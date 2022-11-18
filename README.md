@@ -23,6 +23,6 @@
 <h2 align='center'>p o r t f o l i o</h2>
 <p align='center'>feel free to take a look into my portfolio!</p>
 <p align='center'>
-  <a href='https://www.linkedin.com/in/graciela-williams/' target='_blank'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='36px'/></a>
-  <a href='https://gracewilliams.co' target='_blank'><img src='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/globe2.svg' height='36px'/></a>
+  <a href='https://www.linkedin.com/in/graciela-williams/' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='36px'/></a>
+  <a href='https://gracewilliams.co' target="_blank"><img src='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/globe2.svg' height='36px'/></a>
 </p>
